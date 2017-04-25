@@ -39,3 +39,7 @@ body {
 .container .text-muted {
   margin: 20px 0;
 }
+
+.footer {
+  background-color: none;
+}
