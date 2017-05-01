@@ -1,0 +1,1 @@
+document.addEventListener("contextmenu",function(e){e.preventDefault()}),$(document).ready(function(){$(".carousel").carousel({interval:!1})});

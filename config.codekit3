@@ -15,11 +15,27 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/artist-statement.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/artist-statement.html",
+		"oF": 0
+		},
 	"\/CNAME": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/CNAME",
 		"oF": 0
+		},
+	"\/css\/app-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/css\/app.css": {
 		"aP": 1,
